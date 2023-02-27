@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Death Charge timer
+coming soon...
